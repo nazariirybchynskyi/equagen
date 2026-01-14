@@ -24,7 +24,7 @@ To run this project, you need the following installed on your system:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/trig-generator.git](https://github.com/your-username/trig-generator.git)
+    git clone [https://github.com/nazariirybchynskyi/equagen](https://github.com/nazariirybchynskyi/equagen)
     cd trig-generator
     ```
 
